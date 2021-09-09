@@ -1,1 +1,17 @@
-Hello World
+* {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+h3 {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+}
